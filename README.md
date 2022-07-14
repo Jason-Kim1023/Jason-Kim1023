@@ -9,7 +9,7 @@ As a Sophomore in the College of Arts and Sciences majoring in Computer Science,
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
 * 🖥️  See my portfolio at [TBD - for now look at my LinkedIn!](https://www.linkedin.com/in/jason-kim-0325a0177/)
 * ✉️  You can contact me at [jasonjihoonkimmail@gmail.com](mailto:jasonjihoonkimmail@gmail.com)
-* 🧠  I'm learning Keras/Tensorflow/AWS, EC2/React.js, and the C Language/Linux
+* 🧠  I'm learning Keras and Tensorflow, AWS/EC2, React.js, and the C Language/Linux
 
 ### Skills
 
