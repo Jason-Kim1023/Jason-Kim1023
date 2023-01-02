@@ -7,7 +7,7 @@ Student learning Comp Sci @ UVA
 As a Sophomore in the College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. Currently, I am working on a real-time sign language recognition bot utilizing Keras, Tensorflow, and Open CV, a stock trading bot utilizing my EC2 instance on my Linux VM, and a personal website utilizing React.js and CSS!
 
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
-* 🖥️  See my portfolio at [TBD - for now look at my LinkedIn!](https://www.linkedin.com/in/jason-kim-0325a0177/)
+* 🖥️  See my portfolio at [TBD - for now look at what I have!](https://github.com/Jason-Kim1023/JasonKimPortfolioWebsite)
 * ✉️  You can contact me at [jasonjihoonkimmail@gmail.com](mailto:jasonjihoonkimmail@gmail.com)
 * 🧠  I'm learning Keras and Tensorflow, AWS/EC2, React.js, and the C Language/Linux
 
