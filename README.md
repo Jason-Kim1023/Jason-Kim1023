@@ -6,6 +6,8 @@ Student learning Comp Sci @ UVA
 
 As a Junior in the College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. The past summer, I had the opportunity to work with the team at Metlife!  I am very interest in building my technical skills and meeting new people!  Do not be shy to connect with me on LinkedIn!
 
+Check out the navigation project I completed with a team at the Unversity of Virginia!: https://github.com/uva-cs3240-f23/project-a-03
+
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
 * 🖥️  See my portfolio at [TBD - for now look at what I have!](https://github.com/Jason-Kim1023/JasonKimPortfolioWebsite)
 * ✉️  You can contact me at [jasonjihoonkimmail@gmail.com](mailto:jasonjihoonkimmail@gmail.com)
