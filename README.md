@@ -6,7 +6,7 @@ Comp Sci @ UVA
 
 As a student of the the University of Virginia's College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. Currently, looking for opportunities!
 
-Currently, I am working on 2 Major Projects: A social media app designed to make Planning Holidays/Travels easier and a Authentication App built to deter fake merchandise!  Some of my other projects can be seen in my repositories; and one of my public and more rececnt projects is a Quordle Solver!  
+Currently, I am working on 2 Major Projects: A social media app designed to make Planning Holidays/Travels easier and a Authentication App built to deter fake merchandise!  Some of my other projects can be seen in my repositories; and one of my public and more rececnt projects is a Quordle Solver: https://github.com/Jason-Kim1023/CSP-Quordle 
 
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
 * 🖥️  See my portfolio at [TBD - for now look at what I have!](https://github.com/Jason-Kim1023/JasonKimPortfolioWebsite)
