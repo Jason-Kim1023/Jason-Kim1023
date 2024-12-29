@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student learning Comp Sci @ UVA
 -------------------------------
 
-As a Senior in the College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. The past summer, I had the opportunity to work with the team at Metlife!  I am very interest in building my technical skills and meeting new people!  Do not be shy to connect with me on LinkedIn!
+As a Graduate of the the University of Virginia's College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. Currently, looking for opportunities!
 
-Check out the navigation project I completed with a team at the Unversity of Virginia!: https://github.com/uva-cs3240-f23/project-a-03
+Currently, I am working on 2 Major Projects: A social media app designed to make Planning Holidays/Travels easier and a Authentication App built to deter fake merchandise!  Some of my other projects can be seen in my repositories; and one of my public and more rececnt projects is a Quordle Solver!  
 
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
 * 🖥️  See my portfolio at [TBD - for now look at what I have!](https://github.com/Jason-Kim1023/JasonKimPortfolioWebsite)
