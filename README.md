@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jason Kim
 =================================================================================================================================
 
-Student learning Comp Sci @ UVA
+Comp Sci @ UVA
 -------------------------------
 
-As a Graduate of the the University of Virginia's College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. Currently, looking for opportunities!
+As a student of the the University of Virginia's College of Arts and Sciences majoring in Computer Science, I have grown to have a passion for all aspects of Computer Science. However, I have a particular interest in backend work. Currently, looking for opportunities!
 
 Currently, I am working on 2 Major Projects: A social media app designed to make Planning Holidays/Travels easier and a Authentication App built to deter fake merchandise!  Some of my other projects can be seen in my repositories; and one of my public and more rececnt projects is a Quordle Solver!  
 
