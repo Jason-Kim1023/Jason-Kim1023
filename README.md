@@ -33,7 +33,7 @@ Currently, I am working on 2 Major Projects: A social media app designed to make
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Jason-Kim1023/signLanguage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Kim1023&repo=signLanguage&title_color=14b8a6&text_color=14b8a6&icon_color=3382ed&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/Jason-Kim1023/CSP-Quordle" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Kim1023&repo=CSP-Quordle-MachineLearning/AI&title_color=14b8a6&text_color=14b8a6&icon_color=3382ed&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/Jason-Kim1023/signLanguage" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Kim1023&repo=signLanguage&title_color=14b8a6&text_color=14b8a6&icon_color=3382ed&bg_color=312e81&hide_border=true&locale=en" /></a><a href="https://github.com/Jason-Kim1023/CSP-Quordle" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jason-Kim1023&repo=CSP-Quordle&title_color=14b8a6&text_color=14b8a6&icon_color=3382ed&bg_color=312e81&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
 
