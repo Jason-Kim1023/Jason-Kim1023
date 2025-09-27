@@ -9,7 +9,7 @@ As a Graduate of the the University of Virginia's College of Arts and Sciences m
 Currently, I am working on 2 Major Projects: A video game utilizing Roblox Studio and an Authentication App built to deter fake merchandise!  Some of my other projects can be seen in my repositories; and one of my public and more rececnt projects is a Quordle Solver, a project from my Artificial Intelligence class at the University of Virginia!: https://github.com/Jason-Kim1023/CSP-Quordle 
 
 * 🌍  I'm based in Fairfax, Virginia/Charlottesville,Virginia/Seattle, Washington
-* 🖥️  See my portfolio at [TBD - for now look at what I have!](https://github.com/Jason-Kim1023/JasonKimPortfolioWebsite)
+* 🖥️  See my portfolio at (https://portfolio-production-2cbe.up.railway.app/)
 * ✉️  You can contact me at [jasonjihoonkimmail@gmail.com](mailto:jasonjihoonkimmail@gmail.com)
 * 🧠  I'm learning Cloud Computing, Machine Learning/AI, React.js
 
